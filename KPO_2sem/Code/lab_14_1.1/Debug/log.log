@@ -1,0 +1,15 @@
+Test:  without errors 
+
+Test:  without errors 
+---------- Protocol ---------- Date: 11.09.2024 18:09:00
+----------Parametres----------
+-in: file.txt
+-out: file.txt.out
+-log: log.log
+----------Entered info----------
+t's finally working!!!
+ can slee@ now!
+ривет привет привет
+Total amount of symbols: 58
+Total amount of ignored symbols: 3
+Total amount of lines: 3

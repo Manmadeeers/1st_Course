@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E04D3C-CCCC-4BFC-9A6D-E05E84FBD7FE}|lab_1\\lab_1.vcxproj|C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\stdafx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C1E04D3C-CCCC-4BFC-9A6D-E05E84FBD7FE}|lab_1\\lab_1.vcxproj|solutionrelative:lab_1\\stdafx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E04D3C-CCCC-4BFC-9A6D-E05E84FBD7FE}|lab_1\\lab_1.vcxproj|C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\not_born_yet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C1E04D3C-CCCC-4BFC-9A6D-E05E84FBD7FE}|lab_1\\lab_1.vcxproj|solutionrelative:lab_1\\not_born_yet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E04D3C-CCCC-4BFC-9A6D-E05E84FBD7FE}|lab_1\\lab_1.vcxproj|C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\not_born_yet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C1E04D3C-CCCC-4BFC-9A6D-E05E84FBD7FE}|lab_1\\lab_1.vcxproj|solutionrelative:lab_1\\not_born_yet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E04D3C-CCCC-4BFC-9A6D-E05E84FBD7FE}|lab_1\\lab_1.vcxproj|C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\Count_days.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C1E04D3C-CCCC-4BFC-9A6D-E05E84FBD7FE}|lab_1\\lab_1.vcxproj|solutionrelative:lab_1\\Count_days.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E04D3C-CCCC-4BFC-9A6D-E05E84FBD7FE}|lab_1\\lab_1.vcxproj|C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\days_before.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C1E04D3C-CCCC-4BFC-9A6D-E05E84FBD7FE}|lab_1\\lab_1.vcxproj|solutionrelative:lab_1\\days_before.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E04D3C-CCCC-4BFC-9A6D-E05E84FBD7FE}|lab_1\\lab_1.vcxproj|C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\days_before_birthday.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C1E04D3C-CCCC-4BFC-9A6D-E05E84FBD7FE}|lab_1\\lab_1.vcxproj|solutionrelative:lab_1\\days_before_birthday.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E04D3C-CCCC-4BFC-9A6D-E05E84FBD7FE}|lab_1\\lab_1.vcxproj|C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\Check_date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C1E04D3C-CCCC-4BFC-9A6D-E05E84FBD7FE}|lab_1\\lab_1.vcxproj|solutionrelative:lab_1\\Check_date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E04D3C-CCCC-4BFC-9A6D-E05E84FBD7FE}|lab_1\\lab_1.vcxproj|C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\Check_if_leap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C1E04D3C-CCCC-4BFC-9A6D-E05E84FBD7FE}|lab_1\\lab_1.vcxproj|solutionrelative:lab_1\\Check_if_leap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E04D3C-CCCC-4BFC-9A6D-E05E84FBD7FE}|lab_1\\lab_1.vcxproj|C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C1E04D3C-CCCC-4BFC-9A6D-E05E84FBD7FE}|lab_1\\lab_1.vcxproj|solutionrelative:lab_1\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E04D3C-CCCC-4BFC-9A6D-E05E84FBD7FE}|lab_1\\lab_1.vcxproj|C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\Count_days.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C1E04D3C-CCCC-4BFC-9A6D-E05E84FBD7FE}|lab_1\\lab_1.vcxproj|solutionrelative:lab_1\\Count_days.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E04D3C-CCCC-4BFC-9A6D-E05E84FBD7FE}|lab_1\\lab_1.vcxproj|C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\Tell_me_the_date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C1E04D3C-CCCC-4BFC-9A6D-E05E84FBD7FE}|lab_1\\lab_1.vcxproj|solutionrelative:lab_1\\Tell_me_the_date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E04D3C-CCCC-4BFC-9A6D-E05E84FBD7FE}|lab_1\\lab_1.vcxproj|C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C1E04D3C-CCCC-4BFC-9A6D-E05E84FBD7FE}|lab_1\\lab_1.vcxproj|solutionrelative:lab_1\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stdafx.cpp",
+              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\stdafx.cpp",
+              "RelativeDocumentMoniker": "lab_1\\stdafx.cpp",
+              "ToolTip": "C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\stdafx.cpp",
+              "RelativeToolTip": "lab_1\\stdafx.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-22T08:03:20.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "not_born_yet.h",
+              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\not_born_yet.h",
+              "RelativeDocumentMoniker": "lab_1\\not_born_yet.h",
+              "ToolTip": "C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\not_born_yet.h",
+              "RelativeToolTip": "lab_1\\not_born_yet.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-22T08:02:51.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "days_before.h",
+              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\days_before.h",
+              "RelativeDocumentMoniker": "lab_1\\days_before.h",
+              "ToolTip": "C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\days_before.h",
+              "RelativeToolTip": "lab_1\\days_before.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-22T08:01:27.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Check_date.h",
+              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\Check_date.h",
+              "RelativeDocumentMoniker": "lab_1\\Check_date.h",
+              "ToolTip": "C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\Check_date.h",
+              "RelativeToolTip": "lab_1\\Check_date.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-22T08:00:34.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Header.h",
+              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\Header.h",
+              "RelativeDocumentMoniker": "lab_1\\Header.h",
+              "ToolTip": "C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\Header.h",
+              "RelativeToolTip": "lab_1\\Header.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-22T07:59:14.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "stdafx.h",
+              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\stdafx.h",
+              "RelativeDocumentMoniker": "lab_1\\stdafx.h",
+              "ToolTip": "C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\stdafx.h",
+              "RelativeToolTip": "lab_1\\stdafx.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-22T07:58:01.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Count_days.h",
+              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\Count_days.h",
+              "RelativeDocumentMoniker": "lab_1\\Count_days.h",
+              "ToolTip": "C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\Count_days.h",
+              "RelativeToolTip": "lab_1\\Count_days.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-14T09:52:13.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Count_days.cpp",
+              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\Count_days.cpp",
+              "RelativeDocumentMoniker": "lab_1\\Count_days.cpp",
+              "ToolTip": "C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\Count_days.cpp",
+              "RelativeToolTip": "lab_1\\Count_days.cpp",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwCQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-14T09:52:13.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tell_me_the_date.cpp",
+              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\Tell_me_the_date.cpp",
+              "RelativeDocumentMoniker": "lab_1\\Tell_me_the_date.cpp",
+              "ToolTip": "C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\Tell_me_the_date.cpp",
+              "RelativeToolTip": "lab_1\\Tell_me_the_date.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-14T09:52:13.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "days_before_birthday.cpp",
+              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\days_before_birthday.cpp",
+              "RelativeDocumentMoniker": "lab_1\\days_before_birthday.cpp",
+              "ToolTip": "C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\days_before_birthday.cpp",
+              "RelativeToolTip": "lab_1\\days_before_birthday.cpp",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAYwG0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-14T09:52:13.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Check_if_leap.cpp",
+              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\Check_if_leap.cpp",
+              "RelativeDocumentMoniker": "lab_1\\Check_if_leap.cpp",
+              "ToolTip": "C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\Check_if_leap.cpp",
+              "RelativeToolTip": "lab_1\\Check_if_leap.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-14T09:52:13.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "not_born_yet.cpp",
+              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\not_born_yet.cpp",
+              "RelativeDocumentMoniker": "lab_1\\not_born_yet.cpp",
+              "ToolTip": "C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_1\\lab_1\\not_born_yet.cpp",
+              "RelativeToolTip": "lab_1\\not_born_yet.cpp",
+              "ViewState": "AQIAADoAAAAAAAAAAAAYwFIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-14T09:52:13.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

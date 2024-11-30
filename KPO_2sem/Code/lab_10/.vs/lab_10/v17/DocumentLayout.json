@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1B96FA-6DDD-41E3-B108-8DE9DAE4692C}|dop\\dop.vcxproj|C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_10\\dop\\dop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B1B96FA-6DDD-41E3-B108-8DE9DAE4692C}|dop\\dop.vcxproj|solutionrelative:dop\\dop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95785C1C-2750-4833-97A9-814D0728883F}|lab_10\\lab_10.vcxproj|C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_10\\lab_10\\lab_10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95785C1C-2750-4833-97A9-814D0728883F}|lab_10\\lab_10.vcxproj|solutionrelative:lab_10\\lab_10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dop.cpp",
+              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_10\\dop\\dop.cpp",
+              "RelativeDocumentMoniker": "dop\\dop.cpp",
+              "ToolTip": "C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_10\\dop\\dop.cpp",
+              "RelativeToolTip": "dop\\dop.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T06:48:17.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab_10.cpp",
+              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_10\\lab_10\\lab_10.cpp",
+              "RelativeDocumentMoniker": "lab_10\\lab_10.cpp",
+              "ToolTip": "C:\\Users\\Manmade\\Desktop\\\u041A\u041F\u041E\\KPO_2sem\\Code\\lab_10\\lab_10\\lab_10.cpp",
+              "RelativeToolTip": "lab_10\\lab_10.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-16T19:40:08.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

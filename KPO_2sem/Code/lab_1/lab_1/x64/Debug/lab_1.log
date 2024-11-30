@@ -1,0 +1,57 @@
+﻿Сборка начата 23.02.2024 16:45:37.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\Manmade\Desktop\КПО\Код\lab_1\lab_1\lab_1.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "x64\Debug\Tell_me_the_date.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt Check_if_leap.cpp Count_days.cpp days_before_birthday.cpp not_born_yet.cpp stdafx.cpp Tell_me_the_date.cpp
+         Check_if_leap.cpp
+         Count_days.cpp
+     1>C:\Users\Manmade\Desktop\КПО\Код\lab_1\lab_1\Count_days.cpp(10,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+         days_before_birthday.cpp
+     1>C:\Users\Manmade\Desktop\КПО\Код\lab_1\lab_1\days_before_birthday.cpp(18,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+     1>C:\Users\Manmade\Desktop\КПО\Код\lab_1\lab_1\days_before_birthday.cpp(37,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+         not_born_yet.cpp
+     1>C:\Users\Manmade\Desktop\КПО\Код\lab_1\lab_1\not_born_yet.cpp(18,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+     1>C:\Users\Manmade\Desktop\КПО\Код\lab_1\lab_1\not_born_yet.cpp(37,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+         stdafx.cpp
+         Tell_me_the_date.cpp
+     1>C:\Users\Manmade\Desktop\КПО\Код\lab_1\lab_1\Tell_me_the_date.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+     1>C:\Users\Manmade\Desktop\КПО\Код\lab_1\lab_1\Tell_me_the_date.cpp(16,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+     1>C:\Users\Manmade\Desktop\КПО\Код\lab_1\lab_1\Tell_me_the_date.cpp(20,29): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+     1>C:\Users\Manmade\Desktop\КПО\Код\lab_1\lab_1\Tell_me_the_date.cpp(25,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+     1>C:\Users\Manmade\Desktop\КПО\Код\lab_1\lab_1\Tell_me_the_date.cpp(49,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+     1>C:\Users\Manmade\Desktop\КПО\Код\lab_1\lab_1\Tell_me_the_date.cpp(53,32): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+         Создание кода...
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Manmade\Desktop\КПО\Код\lab_1\x64\Debug\Tell_me_the_date.exe" /INCREMENTAL /ILK:"x64\Debug\Tell_me_the_date.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Manmade\Desktop\КПО\Код\lab_1\x64\Debug\Tell_me_the_date.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Manmade\Desktop\КПО\Код\lab_1\x64\Debug\Tell_me_the_date.lib" /MACHINE:X64 x64\Debug\Check_if_leap.obj
+         x64\Debug\Count_days.obj
+         x64\Debug\days_before_birthday.obj
+         x64\Debug\not_born_yet.obj
+         x64\Debug\stdafx.obj
+         x64\Debug\Tell_me_the_date.obj
+         lab_1.vcxproj -> C:\Users\Manmade\Desktop\КПО\Код\lab_1\x64\Debug\Tell_me_the_date.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\Tell_me_the_date.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\Tell_me_the_date.tlog\Tell_me_the_date.lastbuildstate".
+     1>Сборка проекта "C:\Users\Manmade\Desktop\КПО\Код\lab_1\lab_1\lab_1.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\Users\Manmade\Desktop\КПО\Код\lab_1\lab_1\lab_1.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\Manmade\Desktop\КПО\Код\lab_1\lab_1\Count_days.cpp(10,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+         C:\Users\Manmade\Desktop\КПО\Код\lab_1\lab_1\days_before_birthday.cpp(18,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+         C:\Users\Manmade\Desktop\КПО\Код\lab_1\lab_1\days_before_birthday.cpp(37,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+         C:\Users\Manmade\Desktop\КПО\Код\lab_1\lab_1\not_born_yet.cpp(18,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+         C:\Users\Manmade\Desktop\КПО\Код\lab_1\lab_1\not_born_yet.cpp(37,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+         C:\Users\Manmade\Desktop\КПО\Код\lab_1\lab_1\Tell_me_the_date.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+         C:\Users\Manmade\Desktop\КПО\Код\lab_1\lab_1\Tell_me_the_date.cpp(16,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+         C:\Users\Manmade\Desktop\КПО\Код\lab_1\lab_1\Tell_me_the_date.cpp(20,29): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+         C:\Users\Manmade\Desktop\КПО\Код\lab_1\lab_1\Tell_me_the_date.cpp(25,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+         C:\Users\Manmade\Desktop\КПО\Код\lab_1\lab_1\Tell_me_the_date.cpp(49,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+         C:\Users\Manmade\Desktop\КПО\Код\lab_1\lab_1\Tell_me_the_date.cpp(53,32): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+
+    Предупреждений: 11
+    Ошибок: 0
+
+Прошло времени 00:00:03.36

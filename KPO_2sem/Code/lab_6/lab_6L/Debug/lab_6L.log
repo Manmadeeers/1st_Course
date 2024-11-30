@@ -1,0 +1,37 @@
+﻿Сборка начата 12.04.2024 18:31:21.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\Manmade\Desktop\КПО\KPO_2sem\Code\lab_6\lab_6L\lab_6L.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>_PrepareForClean:
+         Файл "Debug\lab_6L.tlog\lab_6L.lastbuildstate" удаляется.
+       PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Создание "Debug\lab_6L.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "Debug\lab_6L.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"C:\Users\Manmade\Desktop\КПО\KPO_2sem\Code\lab_6\Debug\lab_6L.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt dictionary.cpp
+         dictionary.cpp
+     1>C:\Users\Manmade\Desktop\КПО\KPO_2sem\Code\lab_6\lab_6L\dictionary.cpp(14,21): warning C4018: <: несоответствие типов со знаком и без знака
+     1>C:\Users\Manmade\Desktop\КПО\KPO_2sem\Code\lab_6\lab_6L\dictionary.cpp(32,21): warning C4018: <: несоответствие типов со знаком и без знака
+     1>C:\Users\Manmade\Desktop\КПО\KPO_2sem\Code\lab_6\lab_6L\dictionary.cpp(57,23): warning C4018: <: несоответствие типов со знаком и без знака
+     1>C:\Users\Manmade\Desktop\КПО\KPO_2sem\Code\lab_6\lab_6L\dictionary.cpp(97,22): warning C4018: <: несоответствие типов со знаком и без знака
+       Lib:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\bin\HostX86\x86\Lib.exe /OUT:"C:\Users\Manmade\Desktop\КПО\KPO_2sem\Code\lab_6\Debug\lab_6L.lib" /NOLOGO /MACHINE:X86 Debug\dictionary.obj
+         lab_6L.vcxproj -> C:\Users\Manmade\Desktop\КПО\KPO_2sem\Code\lab_6\Debug\lab_6L.lib
+       FinalizeBuildStatus:
+         Файл "Debug\lab_6L.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\lab_6L.tlog\lab_6L.lastbuildstate".
+     1>Сборка проекта "C:\Users\Manmade\Desktop\КПО\KPO_2sem\Code\lab_6\lab_6L\lab_6L.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+       "C:\Users\Manmade\Desktop\КПО\KPO_2sem\Code\lab_6\lab_6L\lab_6L.vcxproj" (целевой объект Rebuild ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\Manmade\Desktop\КПО\KPO_2sem\Code\lab_6\lab_6L\dictionary.cpp(14,21): warning C4018: <: несоответствие типов со знаком и без знака
+         C:\Users\Manmade\Desktop\КПО\KPO_2sem\Code\lab_6\lab_6L\dictionary.cpp(32,21): warning C4018: <: несоответствие типов со знаком и без знака
+         C:\Users\Manmade\Desktop\КПО\KPO_2sem\Code\lab_6\lab_6L\dictionary.cpp(57,23): warning C4018: <: несоответствие типов со знаком и без знака
+         C:\Users\Manmade\Desktop\КПО\KPO_2sem\Code\lab_6\lab_6L\dictionary.cpp(97,22): warning C4018: <: несоответствие типов со знаком и без знака
+
+    Предупреждений: 4
+    Ошибок: 0
+
+Прошло времени 00:00:00.60

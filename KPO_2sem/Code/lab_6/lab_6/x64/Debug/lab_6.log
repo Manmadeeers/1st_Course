@@ -1,0 +1,19 @@
+﻿Сборка начата 12.04.2024 15:49:14.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\Manmade\Desktop\КПО\KPO_2sem\Code\lab_6\lab_6\lab_6.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+         Создание каталога "C:\Users\Manmade\Desktop\КПО\KPO_2sem\Code\lab_6\x64\Debug\".
+         Создание каталога "x64\Debug\lab_6.tlog\".
+       InitializeBuildStatus:
+         Создание "x64\Debug\lab_6.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\lab_6.tlog\unsuccessfulbuild".
+       FinalizeBuildStatus:
+         Файл "x64\Debug\lab_6.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\lab_6.tlog\lab_6.lastbuildstate".
+     1>Сборка проекта "C:\Users\Manmade\Desktop\КПО\KPO_2sem\Code\lab_6\lab_6\lab_6.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.13
