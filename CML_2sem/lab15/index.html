@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <link rel="stylesheet" href="style.css"> -->
+    <title>Site</title>
+    <style>
+
+        .container {
+            display: flex;
+            justify-content: space-between;
+            /* border: 1px solid; */
+        }
+
+        .container>div {
+            position: relative;
+        }
+
+        img {
+            height: 100%;
+            width: 100%;
+
+        }
+
+        .text {
+        display: none;
+        position: absolute;
+        top: 0;
+        left: 0;
+        font-size: large;
+        background-color: black;
+        color: white;
+        }
+
+        .img1,
+        .img2,
+        .img3,
+        .img4,
+        .img5 {
+            height: 200px;
+            width: 200px;
+            margin-right: 20px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="img1">
+            <img
+                src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.jCevM7lzlPKCWX8PORcjAgHaDA%26pid%3DApi&f=1&ipt=7e619ced565acaa6c1a37cf87c4d516e9de8aa80b3bdcb693dc4ee7fac1d9bf8&ipo=images">
+            <div class="text">
+                Это БГТУ: самый лучший университет в стране.А факультет информационных технологий просто бесподобен и
+                невероятно шикарен.Я считаю,БГУИР пора распускать, раз такое дело
+            </div>
+        </div>
+        <div class="img2">
+            <img
+                src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.kn4JElock4E59q0az1qE-AHaEK%26pid%3DApi&f=1&ipt=7a532b57a5d662ccef1aee92b58975ea33e7c13dd9b618fe3ccd6a173be3cb6e&ipo=images">
+        </div>
+        <div class="img3">
+            <img class="image"
+                src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Q-VuLyQIJqojZj-fhowsrAHaFj%26pid%3DApi&f=1&ipt=bfe88f9d6321354f1fda2389ce51822055cc4664100ecb75b0c310223967ceb1&ipo=images">
+        </div>
+        <!-- <div class="img4"> -->
+            <!-- <img
+                src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.ezcf9n0O2VAIU51x7MYcdAHaEz%26pid%3DApi&f=1&ipt=1350843061cbed6dad7157af26f8006232b746dc70960f8b890c8826c8a7074f&ipo=images">
+        </div> -->
+        <!-- <div class="img5">
+            <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.-52AdJKC81XJrNEAFa2obwHaHa%26pid%3DApi&f=1&ipt=e5a0480cdede6cb7d9f281207b3aeec5a413417fdab1d6b2f4708a4ea38930e9&ipo=images">
+        </div> -->
+    </div>
+    <script>
+        let firstImage = document.getElementsByClassName("img1")[0];
+      firstImage.addEventListener("mouseover", function () {
+        let description = document.getElementsByClassName("text")[0];
+        description.style.display = "flex";
+      });
+      firstImage.addEventListener("mouseout", function () {
+        let description = document.getElementsByClassName("text")[0];
+        description.style.display = "none";
+      });
+
+
+      let secondImage=document.getElementsByClassName("img2")[0];
+      secondImage.addEventListener("click",function(){
+        secondImage.style.border = "5px solid red";
+        setTimeout(function(){
+            secondImage.style.border = "none";
+        },3000)
+      })
+
+
+
+      let thirdImage = document.getElementsByClassName("image")[0];
+      thirdImage.addEventListener("mouseover",function(){
+        thirdImage.src ="imgnew.jpg";
+      })
+      thirdImage.addEventListener("mouseout",function(){
+        thirdImage.src = "imgold.jpg";
+      })
+    </script>
+</body>
+
+</html>

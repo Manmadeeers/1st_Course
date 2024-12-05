@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE info [
+    <!ENTITY name "Наименование товара">
+    <!ENTITY priceless "Бесценно">
+    <!ELEMENT info (trow*)>
+    <!ELEMENT trow (tname,tprice,tamm)>
+    <!ELEMENT tname (#PCDATA)>
+    <!ELEMENT tprice (#PCDATA)>
+    <!ELEMENT tamm (#PCDATA)>
+]>
+<?xml-stylesheet href="style.css" type="text/css"?>
+
+
+<info>
+    <trow>
+        <tname>&name;</tname>
+        <tprice>Цена $</tprice>
+        <tamm>Кол-во единиц в наличии</tamm>
+    </trow>
+    <trow>
+        <tname>Зачёт по КЯР</tname>
+        <tprice>&priceless;</tprice>
+        <tamm>150</tamm>
+    </trow>
+    <trow>
+        <tname>Автомат(у Белодеда)</tname>
+        <tprice>400 баллов рейтинга</tprice>
+        <tamm>30</tamm>
+    </trow>
+    <trow>
+        <tname>Автомат(в руках)</tname>
+        <tprice>Несданная сессия</tprice>
+        <tamm>150</tamm>
+    </trow>
+    <trow>
+        <tname>Проект по ОПИ</tname>
+        <tprice>2 бессонные ночи</tprice>
+        <tamm>1</tamm>
+    </trow>
+    <trow>
+        <tname>Понимание АЛОВС</tname>
+        <tprice>Жизнь</tprice>
+        <tamm>0</tamm>
+    </trow>
+</info>

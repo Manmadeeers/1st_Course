@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>SVG</title>
+</head>
+
+<body>
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="200px">
+        <path id="lie" d="M50 600 A20 60 30 0 1 100 20 C200 50 60 0 1000 100 L 1300 40" stroke="red" stroke-width="2"
+            fill="none" />
+        <text x="100%" y="0" font-size="36px" text-anchor="middle" fill="green">
+            <textpath textPath xlink:href="#lie">
+                Люблю КЯР
+            </textpath>
+        </text>
+    </svg>
+    <svg width="100%" height="200px">
+        <circle cx="50" cy="50" r="50" fill="blue" />
+        <rect x="110" y="0" width="100" height="100" fill="red" />
+        <ellipse fill="green" cx="300" cy="50" rx="80" ry="50" />
+        <polygon points="380 100 430 0 480 100" fill="yellow" />
+        <path d="M0 110 H270 L200 150 H480" stroke="purple" stroke-width="3" fill="none" />
+    </svg>
+    <svg width="100%" height="290px">
+        <defs>
+            <path id="xmas" stroke-width="3" d="M10 10 C0 10 50 20 40 6 C40 0 30 -5 0 5">
+                <animate attributeName="fill" from="blue" to="red" dur="5s" repeatCount="indefinite" />
+            </path>
+            <path id="xmas1" stroke-width="3" d="M0 10 C 10 30 30 32 70 40 C 10 20 49 20 48 10 4 10">
+                <animate attributeName="fill" from="red" to="purple" dur="5s" repeatCount="indefinite" />
+            </path>
+        </defs>
+        <use xlink:href="#xmas" x="50" y="50" fill="blue"/>
+        <use xlink:href="#xmas" x="90" y="30" fill="blue"/>
+        <use xlink:href="#xmas" x="70" y="100" fill="blue"/>
+        <use xlink:href="#xmas1" x="50" y="150" fill="red"/>
+        <use xlink:href="#xmas1" x="140" y="170" fill="red"/>
+        <path />
+        <polyline points="109.9 269.36 90.9 269.36 90.9 215.36 .9 215.36 90.9 71.36 36.9 71.36 108.9 .36" fill="none" stroke="green" stroke-width="2px" />
+        <polyline  points="107.9 269.36 126.9 269.36 126.9 215.36 216.9 215.36 126.9 71.36 180.9 71.36 108.9 .36" fill="none" stroke="green" stroke-width="2px" />
+    </svg>
+</body>
+
+</html>

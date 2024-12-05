@@ -1,0 +1,44 @@
+nav>ul>li{
+    position: relative;
+}
+nav>ul>li>a{
+    display: block;
+    width: 200px;
+}
+nav>ul{
+    border: 1px solid black;
+}
+
+nav ul{
+    position: absolute;
+    display: block;
+    list-style-type: none;
+    padding: 10px;
+    background-color: yellow;
+}
+nav li ul{
+    display: none;
+    left: -21px;
+    list-style-type: none;
+    background: none;
+}
+nav li ul li {
+    border: 3px black dotted;
+    background-color: coral;
+    width: 100px;
+    padding: 5px;
+    border-bottom: none;
+}
+
+nav li ul li:last-child {
+    border-bottom: 3px black dotted;
+}
+
+nav li:hover ul {
+    display: block;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="flex-desktop.css">
+    <link rel="stylesheet" href="flex-mobile.css" media="(max-width:320px)">
+    <title>Site</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="head">Site name <a class="mobile">&#8801;</a>
+            <nav class="menu">
+                <div><a href="">Flexbox</a></div>
+                <div><a href="">Music</a></div>
+                <div><a href="https://github.com/Manmadeeers">My GitHub</a></div>
+            </nav>
+        </div>
+        <div id="vid" class="vids">
+            <video src="video_2023-11-30_12-09-44.mp4" controls></video>
+            <video src="video_2023-11-30_12-14-49.mp4" controls></video>
+            <video src="IMG_0315.MOV" controls></video>
+        </div>
+        <div id="inf" class="info">Flexbox-верстка – разметка макетов веб-страниц, которая поз-
+            воляет автоматически настраивать ширину элементов, находящих-
+            70
+            ся внутри flex-контейнера. Для применения данного способа раз-
+            метки следует учитывать разделение применяемых свойств на
+            свойства flex-контейнера и свойства flex-элемента.
+            С помощью display: flex; осуществляется преобразование
+            HTML-элемента в flex-контейнер, а элементы, находящиеся внут-
+            ри него, в flex-элементы. По умолчанию flex-элементы помещают-
+            ся друг за другом в одной строке. Свойство flex-flow позволяет
+            выбрать направление отображения элементов в контейнере, а так-
+            же указать их перенос на следующую строку. Первое значение
+            определяет направление, а второе – перенос на следующую строку.
+            Свойство flex-flow является сокращенной записью и содержит
+            значения свойств flex-direction и flex-wrap. Flex-элементы могут раз-
+            мещаться в строке (значение row) или в колонке (значение column).
+            Перенос элементов осуществляется с помощью значения wrap.
+            Свойство justify-content определяет способ выключки flex-
+            элементов в строке. Для выравнивания по левому краю использу-
+            ется значение flex-start, а по правому краю – flex-end. Для равно-
+            мерного распределения элементов, за счет создания пространства
+            между ними необходимо применить значение space-between, а зна-
+            чение space-around добавляет поля по левому и правому краям
+            крайних элементов.
+            Свойство align-items определяет, как flex-элементы различной
+            высоты будут выровнены по высоте строки в flex-контейнере. Для
+            выравнивания по верхнему краю используется значение flex-start,
+            а по нижнему краю – flex-end. Значение stretch позволяет растя-
+            нуть каждый элемент по высоте контейнера, делая высоты элемен-
+            тов одинаковыми. Свойство align-content определяет, как будут
+            размещены flex-элементы, занимающие несколько строк.
+            Для flex-элементов основным свойством является flex, которое
+            обеспечивает их гибкость и управляет шириной, что позволяет со-
+            здавать «гибкие» колонки или изменять их ширину в соответствии
+            с размером контейнера, даже если размер неизвестен или меняется
+            динамически. Первое значение свойства flex – число свойства flex-
+            grow, которое указывает на относительную ширину flex-элемента,
+            определяющую, во сколько раз размеры элементов отличаются
+            между собой. Второе значение – число свойства flex-shrink, кото-
+            рое определяет, насколько flex-элемент может быть сжат, если
+            суммарная ширина элементов больше ширины контейнера. По-
+            следнее значение – свойство flex-basis, которое определяет базо-
+            71
+            вую ширину flex-элемента. Пример кода с возможными свойства-
+            ми показан в таблице.Работай , гит! Ура</div>
+        <div id="mus" class="music">
+            <audio src="Three-Days-Grace-Riot.mp3" controls></audio>
+            <audio src="Three-Days-Grace-Pain.mp3" controls></audio>
+            <audio src="Three-Days-Grace-You-Dont-Get-Me-High-Anymore.mp3" controls></audio>
+        </div>
+        <div class="galery">
+            <h4>Galery</h4>
+            <figure>
+                <img src="EOS-gradient-apollo.png">
+                <figcaption>Endevour OS Apollo desktop</figcaption>
+            </figure>
+            <figure>
+                <img src="EOS-gradient-apollo.png">
+                <figcaption>Endevour OS Apollo desktop</figcaption>
+            </figure>
+            <figure>
+                <img src="EOS-gradient-apollo.png">
+                <figcaption>Endevour OS Apollo desktop</figcaption>
+            </figure>
+            <figure>
+                <img src="EOS-gradient-apollo.png">
+                <figcaption>Endevour OS Apollo desktop</figcaption>
+            </figure>
+            <figure>
+                <img src="EOS-gradient-apollo.png">
+                <figcaption>Endevour OS Apollo desktop</figcaption>
+            </figure>
+            <figure>
+                <img src="EOS-gradient-apollo.png">
+                <figcaption>Endevour OS Apollo desktop</figcaption>
+            </figure>
+            <figure>
+                <img src="EOS-gradient-apollo.png">
+                <figcaption>Endevour OS Apollo desktop</figcaption>
+            </figure>
+            <figure>
+                <img src="EOS-gradient-apollo.png">
+                <figcaption>Endevour OS Apollo desktop</figcaption>
+            </figure>
+        </div>
+  
+    </div>
+</body>
+
+</html>

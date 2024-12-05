@@ -1,0 +1,27 @@
+aside{
+    float: right;
+}
+ul.nav{
+    list-style-type: none;
+}
+ul.nav a{
+    display: block;
+}
+a:link{
+    color:red;
+    text-decoration: none
+}
+a:visited{
+    color: #8a000085;
+}
+
+a:hover{
+    color:green;
+}
+a:active{
+    color: rgb(184,134, 11);
+}
+.info{
+    width: 500px;
+    float: left;
+}

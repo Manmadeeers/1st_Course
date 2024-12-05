@@ -1,0 +1,21 @@
+div{
+    display: inline-block;
+    height: 70px;
+    width: 70px;
+
+}
+div:nth-child(1){
+    background-image: linear-gradient(to bottom, blue,red);
+}
+div:nth-child(2){
+    background-image: repeating-linear-gradient(45deg, red, red 5px,blue 5px,blue 10px);
+}
+div:nth-child(3){
+    background-image: radial-gradient(yellow,green);
+}
+div:nth-child(4){
+    background-image: repeating-radial-gradient( green, green 4.5px,yellow 4.5px, yellow 9px)
+}
+div:nth-child(5){
+    background-image: radial-gradient(yellow,green ,transparent), linear-gradient(to bottom, blue,purple);
+}

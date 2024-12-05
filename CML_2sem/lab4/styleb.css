@@ -1,0 +1,45 @@
+.cl1{
+    border-left: solid brown;
+    border-bottom: solid yellow;
+    border-top: solid orange;
+    border-right: solid blue;
+}
+.cl2{
+    border-left: solid #007BA7;
+    border-right: solid #007BA7;
+}
+.cl3{
+    border-top: solid rgb(229 43 80);
+    border-bottom: lightblue dashed;
+    border-left: lightblue dashed;
+    border-right: lightblue dashed;
+}
+.cl4{
+    border: 1px dotted orange;
+}
+.cl5{
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue;
+    border-left: dotted crimson;
+    border-right: dotted crimson;
+}
+.cl6{
+    border:  double #B3446C;
+}
+.cl7{
+    border-top: 1px dotted #808000;
+    border-bottom: 3px solid #FF7518;
+}
+.cl8{
+    border-left: double #CC7722;
+    border-bottom: double #CC7722;
+}
+.cl9{
+    border-top: ridge #B5A642;
+    border-right: ridge #B5A642;
+}
+.cl10{
+    border-left: 5px dotted rgb(0 40 0);
+    border-bottom: 5px dotted rgb(0 40 0);
+    border-right: 5px dotted rgb(0 40 0);
+}

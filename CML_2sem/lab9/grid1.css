@@ -1,0 +1,21 @@
+.grid{
+    display: grid;
+    grid-template-columns: 30px auto auto;
+    grid-template-rows: auto;
+    grid-gap: 10px;
+    position: fixed;        
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+      
+}
+.grid div{
+    border: 1px solid;
+}
+.cl1{
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    padding-right: 5px;
+    padding-top: 15px;
+}

@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+img{
+    height:200px;
+    width: 300px;
+}
+figure{
+    float: left;
+}
+figure:nth-child(4n-2){
+    clear: left;
+}
+figcaption{
+    text-align: center;
+}   

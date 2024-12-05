@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="site2.xsl"?>
+<attest>
+<line>
+<name>Имя</name>
+<mark>Оценка</mark>
+</line>
+<line>
+<name>Паскин В.Р.</name>
+<mark>4</mark>
+</line>
+<line>
+<name>Романов И.В.</name>
+<mark>10</mark>
+</line>
+<line>
+<name>Терехович А.С.</name>
+<mark>8</mark>
+</line>
+<line>
+<name>Терещенко П.А.</name>
+<mark>9</mark>
+</line>
+<line>
+<name>Титов А.А.</name>
+<mark>9</mark>
+</line>
+<line>
+<name>Урбанович В.А.</name>
+<mark>7</mark>
+</line>
+<line>
+<name>Ус Е.Н.</name>
+<mark>9</mark>
+</line>
+<line>
+<name>Филипюк И.А.</name>
+<mark>9</mark>
+</line>
+<line>
+<name>Херунцева Д.Ю.</name>
+<mark>9</mark>
+</line>
+<line>
+<name>Черноштан Р.Э.</name>
+<mark>6</mark>
+</line>
+<line>
+<name>Шилов А.В.</name>
+<mark>8</mark>
+</line>
+<line>
+<name>Ярохович А.Н.</name>
+<mark>6</mark>
+</line>
+</attest>

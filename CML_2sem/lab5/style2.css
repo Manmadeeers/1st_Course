@@ -1,0 +1,24 @@
+td{
+    border: 1px solid gray;
+    width: 50px;
+    text-align: center;
+}
+table{
+    empty-cells: hide;
+}
+tr:first-child td{
+
+    background-color: blue;
+}
+td:first-child{
+    font-weight: bold;
+}
+td:nth-child(3n){
+    background-color: purple;
+}
+td:nth-child(2n){
+    background-color: rgb(31, 147, 255);
+}
+td:nth-child(4n){
+    background-color: rgb(43, 197, 43);
+}

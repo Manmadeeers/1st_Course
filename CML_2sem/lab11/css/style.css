@@ -1,0 +1,208 @@
+.head3 p, .container2 p, .headlf p, .head p, .container1 p, h5, h4, h3, h2, h1 {
+  display: inline;
+}
+
+header {
+  border: 1px solid;
+  height: 50px;
+}
+
+header div {
+  display: inline-block;
+  border: 1px solid;
+  text-align: center;
+  height: 80%;
+  width: 200px;
+  margin-left: 20px;
+  margin-top: 5px;
+}
+
+header div img {
+  height: 100%;
+  width: 100%;
+  margin-bottom: 50px;
+}
+
+nav {
+  float: right;
+  margin-right: 20px;
+}
+
+nav li {
+  display: inline-block;
+  border: 1px solid;
+  list-style-type: none;
+  width: 100px;
+  text-align: center;
+  margin-left: 5px;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+.container1 {
+  float: left;
+  margin-top: 20px;
+  margin-left: 0;
+  width: 60%;
+}
+
+.container1 div {
+  border: 1px solid;
+}
+
+.head {
+  display: inline-block;
+  width: 100%;
+  margin-left: 0;
+  margin-top: 0;
+  height: 30px;
+  text-align: center;
+}
+
+.head p {
+  font-size: 20pt;
+}
+
+.t1, .t2, .t3 {
+  margin-top: 20px;
+  height: 200px;
+  width: 250px;
+  font-size: 13pt;
+  color: blue;
+  overflow: hidden;
+}
+
+.t1 {
+  float: left;
+}
+
+.t2 {
+  display: inline-block;
+  margin-left: 80px;
+}
+
+.t3 {
+  float: right;
+}
+
+form {
+  float: right;
+  border: 1px solid;
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 38.4%;
+  height: auto;
+}
+
+form h5 {
+  margin-left: 10px;
+}
+
+input {
+  display: inline-block;
+}
+
+.butbut {
+  margin-right: 10px;
+}
+
+label {
+  display: inline-block;
+  vertical-align: top;
+  text-align: left;
+  margin-right: 10px;
+  width: 100px;
+}
+
+form p {
+  margin-left: 10px;
+}
+
+.headlf {
+  display: inline-block;
+  border: 1px solid;
+  text-align: center;
+  margin-top: 10px;
+  margin-left: 20px;
+  height: 30px;
+  width: 38.4%;
+}
+
+.headlf p {
+  font-size: 16pt;
+}
+
+.container2 {
+  float: right;
+  border: 1px solid;
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 38.4%;
+}
+
+.container2 figure {
+  border: 1px solid;
+  height: 100px;
+  width: 100px;
+}
+
+.container2 figure img {
+  height: 100%;
+  width: 100%;
+}
+
+.c1, .c2 {
+  float: right;
+  border: 1px solid;
+  width: 60%;
+  margin-right: 20px;
+  font-size: 12pt;
+  height: 100px;
+  color: red;
+}
+
+.c1 {
+  margin-top: 16px;
+}
+
+.container3 {
+  display: inline-block;
+  width: 60%;
+  margin-top: 20px;
+}
+
+.container3 figure {
+  float: left;
+  border: 1px solid;
+  height: 160px;
+  width: 160px;
+  margin-right: 0;
+  margin-left: 50px;
+}
+
+.container3 figure img {
+  height: 100%;
+  width: 100%;
+}
+
+.head3 {
+  display: inline-block;
+  border: 1px solid;
+  width: 100%;
+  height: 30px;
+  text-align: center;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+  border: 1px solid;
+  margin-top: 40px;
+  height: 50px;
+}
+
+footer span {
+  margin-left: 15px;
+}

@@ -1,0 +1,222 @@
+@import '_variables.scss';
+
+@mixin inline-block-plus-border{
+    display: $dsinline;
+    border: $border;
+}
+%inline-display{
+    display: inline;
+}
+
+@function fszbig($big){
+    @return $fsizebg - $big;
+}
+@function fszsml($small){
+    @return $fsizesml - $small;
+}
+@function logic($logic){
+    @if $logic > $heightt{
+        @return red;
+    }
+    @if $logic< $heightt{
+        @return blue;
+    }
+}
+@function logicc($logicc){
+    @if $logicc >$heightc{
+        @return red;
+    }
+    @if $logicc <$heightc{
+        @return blue;
+    }
+}
+
+header{
+    border: $border;
+    height: $heightbig;
+}
+
+h5,h4,h3,h2,h1{
+    @extend %inline-display;
+}
+
+header div{
+    @include inline-block-plus-border();
+    text-align: $textalcent;
+    height: 80%;
+    width: 200px;
+    margin-left: $margleftbig;
+    margin-top: 5px;
+}
+header div img{
+    height: $imgheight;
+    width: $imgwidth;
+    margin-bottom: 50px;
+}
+nav{
+    float:$flright;
+    margin-right: $margrightbig;
+}
+nav li{
+    @include inline-block-plus-border();
+    list-style-type: none;
+    width: 100px;
+    text-align: $textalcent;
+    margin-left: 5px;
+}
+nav a {
+    text-decoration: none;
+}
+.container1{
+    float: $flleft;
+    margin-top: $margtopbig;
+    margin-left: 0;
+    width: $contleftwidth;
+}
+.container1 p{
+    @extend %inline-display;
+}
+.container1 div{
+    border: $border;
+}
+.head{
+    display: $dsinline;
+    width: $fullwidth;
+    margin-left: 0;
+    margin-top: 0;
+    height: $headhight;
+    text-align: $textalcent;
+}
+.head p{
+    @extend %inline-display;
+    font-size: $fsizebg;
+}
+.t1, .t2, .t3{
+    margin-top:$margtopbig;
+    height: $heightt;
+    width: 250px;
+    font-size: fszbig(7);
+    color: logic(150px);
+    overflow: hidden;
+}
+.t1{
+    float: $flleft;
+}
+.t2{
+    display: $dsinline;
+    margin-left: $margleftbig*4;
+}
+.t3{
+    float: $flright;
+}
+@mixin form{
+    float:$flright;
+    border: $border;
+    margin-top: $margtopbig;
+    margin-left: $margleftbig;
+    width: $rightptwidth;
+    height: auto;
+}
+form{
+    @include form();
+}
+form h5{
+    margin-left: $margleftsmall;
+}
+input{
+    display: $dsinline;
+}
+.butbut{
+    margin-right: $margrightsmall;
+}
+label{
+    display: $dsinline;
+    vertical-align: top;
+    text-align: left;
+    margin-right: $margrightsmall;
+    width: 100px;
+}
+form p{
+    margin-left: $margleftsmall;
+}
+.headlf{
+    @include inline-block-plus-border();
+    text-align: $textalcent;
+    margin-top: $margtopsmall;
+    margin-left: $margleftbig;
+    height: $headhight;
+    width: $rightptwidth;
+}
+.headlf p{
+    @extend %inline-display;
+    font-size: $fsizesml;
+}
+
+.container2{
+    float: $flright;
+    border: $border;
+    margin-top: $margtopsmall;
+    margin-left: $margleftsmall;
+    width: $rightptwidth;
+}
+.container2 p{
+    @extend %inline-display;
+}
+.container2 figure{
+    border: $border;
+    height: 100px;
+    width: 100px;
+}
+.container2 figure img{
+    height: $imgheight;
+    width: $imgwidth;
+}
+.c1, .c2{
+    float: $flright;
+    border: $border;
+    width: $contleftwidth;
+    margin-right: $margrightbig;
+    font-size: fszsml(4);
+    height: 100px;
+    color: logicc(150px);
+}
+.c1{
+    margin-top: 16px;
+}
+.container3{
+    display: $dsinline;
+    width: $contleftwidth;
+    margin-top: $margtopbig;
+}
+.container3 figure{
+    float: $flleft;
+    border: $border;
+    height: 160px;
+    width: 160px;
+    margin-right: 0;
+    margin-left: 50px;
+}
+.container3 figure img{
+    height: $imgheight;
+    width: $imgwidth;
+}
+.head3{
+    @include inline-block-plus-border();
+    width: $fullwidth;
+    height: $headhight;
+    text-align: $textalcent;
+}
+.head3 p{
+    @extend %inline-display;
+}
+
+footer{
+    display: flex;
+    align-items: center;
+    border: $border;
+    margin-top: 40px;
+    height: $heightbig;
+}
+footer span{
+    margin-left: 15px;
+}

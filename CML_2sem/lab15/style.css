@@ -1,0 +1,25 @@
+div{
+    display: inline-block;
+}
+.container{
+    display: flex;
+    border: 1px solid;
+}
+img {
+    height: 100%;
+    width: 100%;
+
+}
+.text{
+    display: none;
+    top: 0;
+    left: 0;
+    margin-top: 20px;
+}
+.img1,.img2,.img3,.img4{
+    border: 1px solid;
+    height: 200px;
+    width: 200px;
+    margin-right: 20px;
+    margin-top: 20px;
+}

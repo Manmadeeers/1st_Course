@@ -1,0 +1,62 @@
+h1{
+    text-align: center;
+}
+p:nth-child(5){
+    color:blue;
+    font-family: Arial;
+}
+p:nth-child(7){
+    color:red;
+    font-family: Comic Sans MS;
+}
+p:nth-child(10),p:nth-child(11){
+    color:green;
+    font-family: Times New Roman;
+    clear: left;
+}
+td{
+    border: 1px solid black;
+}
+table{
+    border-collapse: collapse;
+}
+ul li{
+    list-style: none;
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.xbA2Z8DzNGI6y3NwEMjYoAAAAA%26pid%3DApi&f=1&ipt=0798c8406b54fa3cb90cb66c5c01e23ce9220fa38af041a6626369969c7989e7&ipo=images);
+    background-size: 15px;
+    background-repeat: no-repeat;
+    padding-left: 20px;
+}
+body{
+    background-image: url(https://belstu.by/images/it/mrxcyoj1s3q.jpg);
+    background-repeat: no-repeat;
+    background-size: 50px;
+    background-position: right top;
+    background-attachment: fixed;
+}
+.img1{
+    height: 500px;
+    width: 400px;
+    float: left;
+    clear: right;
+}
+.img2{
+    height: 500px;
+    width: 400px;
+    float: right;
+    clear: left;
+}
+h2:nth-child(12){
+    clear: both;
+}
+h3:nth-child(9){
+    clear: left;
+}
+p{
+    text-indent: 0;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+a{
+    text-align: center;
+}

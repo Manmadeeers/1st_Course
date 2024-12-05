@@ -1,0 +1,52 @@
+input{
+    display: inline-block;
+}
+
+form{
+    background-color: indigo;
+    width: 450px;
+    height: 410px;
+}
+input{
+    background-color: rgba(255,255,255,.5);
+}
+.label{
+    display: inline-block;
+    width: 210px;
+    vertical-align: top;
+    text-align: left;
+    margin-right: 10px;
+    font-size: 1.2em;
+    color: rgba(255,255,255,1);
+    
+}
+input[type="text"]:required{
+    background: rgb(255, 255, 255,.5);
+    box-shadow: inset 0 0 10px rgba(255,255,255, .75);
+    border-radius: 5px;
+}
+input[type="text"]:focus{
+    color: black;
+    background-color: black;
+}
+input[type="date"]:required,select{
+    background-color:rgba(255,255,255,1) ;
+
+}
+input[type="button"]:read-only{
+    border-radius: 5px;
+    background-color: navy;
+    box-shadow: 0 0 4px white;
+    color:rgba(255,255,255,1);
+}
+.butbut{
+    margin-left: 210px;
+    margin-right: 5px;
+}
+a,h2{
+    color:rgba(255,255,255,1);
+}
+b{
+    color: rgba(255,255,255,1);
+    margin-top: 50px;
+}

@@ -1,0 +1,24 @@
+h1,h2,h3,h4,h5,h6{
+    color: blueviolet;
+    font-family: 'Monotype Corsiva';
+    
+
+}
+.firstclass{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18pt;
+}
+.secondclass{
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20pt;
+}
+.thirdclass{
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22pt;
+}
+  td a{
+   color: red;
+}
